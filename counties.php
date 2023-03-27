@@ -4,7 +4,6 @@ require_once ("includes/class.counties.php");
 $_counties = new counties();
 $allCountiesAsc = $_counties->getAllAsc();
 $priv_counties = 5;
-
 ?>
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
   <head>
