@@ -1,5 +1,4 @@
 <!DOCTYPE>
-
 <?php
 require_once ("includes/class.counties.php");
 $_counties = new counties();
