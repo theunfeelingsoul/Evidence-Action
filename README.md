@@ -8,7 +8,7 @@ This is a simple record keeping application that deals with a large set of data.
 The data is about vaccination statistics in Elementary schools in Kenya.
 The application displays the data. You can add delete and update the records.
 
-It used no freame work. Just PHP classes.
+It used no frame work. Just PHP classes.
 
 ## Languages used
 - PHP
